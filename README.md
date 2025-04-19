@@ -10,6 +10,10 @@
 ## 更改文件路径
     在你运行代码之前，你需要手动更改mkdir.py和prepro.py中的文件路径，使其指向你的实际文件路径
 
+## 下载相应的数据集
+    1.从百度网盘下载相应的数据集通过网盘分享的文件：dogs-vs-cats-train1.zip链接: https://pan.baidu.com/s/1DWx-1MlE9O0uWMZzh7mCLA?pwd=h9c8 提取码: h9c8
+    2.解压后将其放置于项目文件夹下
+
 ## 运行代码
   1.cd + 项目路径
   2.python mkdir.py  #生成训练，测试，验证三个数据集
