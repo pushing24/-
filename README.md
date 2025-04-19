@@ -15,6 +15,6 @@
     2.解压后将其放置于项目文件夹下
 
 ## 运行代码
-  1.cd + 项目路径
-  2.python mkdir.py  #生成训练，测试，验证三个数据集
-  3.python train.py  #开始训练
+    1.cd + 项目路径
+    2.python mkdir.py  #生成训练，测试，验证三个数据集
+    3.python train.py  #开始训练
