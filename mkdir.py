@@ -2,8 +2,8 @@ import shutil
 import os
 
 # 基础路径配置
-base_dir = r'E:\introduction_ai\ai_dogcat\data'
-original_dataset_dir = r'E:\introduction_ai\ai_dogcat\dogs-vs-cats-train1\train'
+base_dir = r'E:\introduction_ai\ai_dogcat\data' # 指向你想生成测试集，训练集，验证集的目录
+original_dataset_dir = r'E:\introduction_ai\ai_dogcat\dogs-vs-cats-train1\train' # 指向你原始数据集的文件夹目录
 
 
 # 递归创建所有目录
